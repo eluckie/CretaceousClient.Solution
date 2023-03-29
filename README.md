@@ -25,13 +25,9 @@ This project was scaffolded using [`dotnet new`](https://learn.microsoft.com/en-
 
 ## How To Run This Project
 
-### Install Tools
-
-Install the tools that are introduced in [this series of lessons on LearnHowToProgram.com](https://www.learnhowtoprogram.com/c-and-net/getting-started-with-c).
-
 ### Set Up and Run the Cretaceous Park API Project
 
-First, following the instructions in the README of [this repo](https://github.com/eluckie/CretaceousApi.Solution) to set up and run the Cretaceous Park API.
+First, follow the instructions in the README of [this repo](https://github.com/eluckie/CretaceousApi.Solution) to set up and run the Cretaceous Park API.
 
 ### Set Up and Run This Project
 
